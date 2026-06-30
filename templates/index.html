@@ -1,11 +1,9 @@
-
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
 <title>Secure File Transfer — Monitoring Dashboard</title>
 <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <meta http-equiv="refresh" content="5">
 </head>
 <body>
@@ -20,6 +18,18 @@
 <div class="card"><h3>Threat Level</h3><div class="big danger">LOW</div></div>
 <div class="card"><h3>Events</h3><div class="big">{{ total_events }}</div></div>
 <div class="card"><h3>Alerts</h3><div class="big alert">{{ alerts }}</div></div>
+</div>
+
+<div class="card" style="text-align:center; padding: 20px;">
+  <a href="/test" style="background:#02C39A; color:#000; padding:14px 32px; border-radius:8px; font-size:16px; font-weight:bold; text-decoration:none; margin-right:16px;">
+    🧪 Run Sensitivity Test
+  </a>
+  <a href="/clear" style="background:#990011; color:#fff; padding:14px 32px; border-radius:8px; font-size:16px; font-weight:bold; text-decoration:none;">
+    🗑️ Clear Log
+  </a>
+  <p style="color:#888; margin-top:12px; font-size:13px;">
+    "Run Sensitivity Test" creates a file in sensitive_data/ — watch SENSITIVE=True and ALERT appear below.
+  </p>
 </div>
 
 <div class="card">
