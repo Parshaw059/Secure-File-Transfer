@@ -1,0 +1,11 @@
+[2026-06-28 08:34:30] ACTION=CREATED PATH=./sensitive_data/transfer_record_001.txt SENSITIVE=True HASH=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+ALERT: Sensitive file activity detected -> ./sensitive_data/transfer_record_001.txt
+[2026-06-28 08:34:30] ACTION=MODIFIED PATH=./sensitive_data/transfer_record_001.txt SENSITIVE=True HASH=74511770b7e8e2e7f935974475cb1ca1ac0b428fe3439abfead39693ebb7b82e
+ALERT: Sensitive file activity detected -> ./sensitive_data/transfer_record_001.txt
+[2026-06-28 08:34:41] ACTION=MODIFIED PATH=./sensitive_data/transfer_record_001.txt SENSITIVE=True HASH=7ce7a03296f5f62ed1ae242687d68de219809657667e19cb887a375baa7918b4
+ALERT: Sensitive file activity detected -> ./sensitive_data/transfer_record_001.txt
+[2026-06-28 08:34:48] ACTION=CREATED PATH=./status_note.txt SENSITIVE=False HASH=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2026-06-28 08:34:48] ACTION=MODIFIED PATH=./status_note.txt SENSITIVE=False HASH=4575611f5e6536baa57f4fd46f3ee7820a3a38020a48010f2fcc5ca3543cffea
+[2026-06-28 08:34:50] ACTION=DELETED PATH=./sensitive_data/transfer_record_001.txt SENSITIVE=True HASH=N/A
+ALERT: Sensitive file activity detected -> ./sensitive_data/transfer_record_001.txt
+[2026-06-28 08:34:51] ACTION=DELETED PATH=./status_note.txt SENSITIVE=False HASH=N/A

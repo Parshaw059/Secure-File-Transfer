@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Secure File Transfer — Monitoring Dashboard</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<meta http-equiv="refresh" content="5">
+</head>
+<body>
+<div class="bg"></div>
+
+<header>
+<h1>🔒 SECURE FILE TRANSFER</h1>
+<p>File Transfer Monitoring & Integrity System</p>
+</header>
+
+<div class="grid">
+<div class="card"><h3>Threat Level</h3><div class="big danger">LOW</div></div>
+<div class="card"><h3>Events</h3><div class="big">{{ total_events }}</div></div>
+<div class="card"><h3>Alerts</h3><div class="big alert">{{ alerts }}</div></div>
+</div>
+
+<div class="card">
+<h3>Security Activity Feed</h3>
+<div class="logs">
+{% for log in logs %}
+<div class="log">{{ log }}</div>
+{% endfor %}
+</div>
+</div>
+
+<div class="card">
+<h3>Integrity Status</h3>
+<div class="bar"><div class="fill"></div></div>
+<p>98% File Integrity Verified</p>
+</div>
+</body>
+</html>

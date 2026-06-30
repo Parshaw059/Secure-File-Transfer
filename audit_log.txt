@@ -1,0 +1,36 @@
+[2026-06-30 09:14:06] ACTION=CREATED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/__pycache__/main.cpython-313.pyc.4328773152 SENSITIVE=False HASH=N/A
+[2026-06-30 09:14:06] ACTION=CREATED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/__pycache__/main.cpython-313.pyc.4328773152 SENSITIVE=False HASH=N/A
+[2026-06-30 09:14:06] ACTION=MODIFIED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/__pycache__/main.cpython-313.pyc.4328773152 SENSITIVE=False HASH=N/A
+[2026-06-30 09:14:06] ACTION=MODIFIED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/__pycache__/main.cpython-313.pyc.4328773152 SENSITIVE=False HASH=N/A
+[2026-06-30 09:14:06] ACTION=MOVED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/__pycache__/main.cpython-313.pyc.4328773152 SENSITIVE=False HASH=N/A
+[2026-06-30 09:14:06] ACTION=MOVED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/__pycache__/main.cpython-313.pyc.4328773152 SENSITIVE=False HASH=N/A
+[2026-06-30 09:15:09] ACTION=CREATED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/Parul University.pdf SENSITIVE=False HASH=5f3118addba9a19c95fb2c4152b7f6337df3c70286cbe174fb8e0f81251fedab
+[2026-06-30 09:15:09] ACTION=CREATED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/Parul University.pdf SENSITIVE=False HASH=5f3118addba9a19c95fb2c4152b7f6337df3c70286cbe174fb8e0f81251fedab
+[2026-06-30 09:15:09] ACTION=MODIFIED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/Parul University.pdf SENSITIVE=False HASH=5f3118addba9a19c95fb2c4152b7f6337df3c70286cbe174fb8e0f81251fedab
+[2026-06-30 09:15:09] ACTION=MODIFIED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/Parul University.pdf SENSITIVE=False HASH=5f3118addba9a19c95fb2c4152b7f6337df3c70286cbe174fb8e0f81251fedab
+[2026-06-30 09:15:32] ACTION=DELETED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/Parul University.pdf SENSITIVE=False HASH=N/A
+[2026-06-30 09:15:32] ACTION=DELETED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/Parul University.pdf SENSITIVE=False HASH=N/A
+[2026-06-30 09:17:45] ACTION=CREATED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/.DS_Store SENSITIVE=False HASH=d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3
+[2026-06-30 09:17:45] ACTION=CREATED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/.DS_Store SENSITIVE=False HASH=d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3
+[2026-06-30 09:17:45] ACTION=MODIFIED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/.DS_Store SENSITIVE=False HASH=d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3
+[2026-06-30 09:17:45] ACTION=MODIFIED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/.DS_Store SENSITIVE=False HASH=d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3
+[2026-06-30 09:18:17] ACTION=CREATED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/TEST_sensitive_check.txt SENSITIVE=False HASH=e72d547008f9359595e3c1a4fa24d40343431b3eb23e3025e3f462c535860f57
+[2026-06-30 09:18:17] ACTION=CREATED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/TEST_sensitive_check.txt SENSITIVE=False HASH=e72d547008f9359595e3c1a4fa24d40343431b3eb23e3025e3f462c535860f57
+[2026-06-30 09:19:07] ACTION=MOVED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/TEST_sensitive_check.txt SENSITIVE=False HASH=N/A
+[2026-06-30 09:19:07] ACTION=MOVED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/TEST_sensitive_check.txt SENSITIVE=False HASH=N/A
+[2026-06-30 09:20:16] ACTION=MODIFIED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/.DS_Store SENSITIVE=False HASH=dca295f9e1e3f7c573b5a4cc85b5e60d8d08167be6aced843cd1906411fde5eb
+[2026-06-30 09:20:16] ACTION=MODIFIED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/.DS_Store SENSITIVE=False HASH=dca295f9e1e3f7c573b5a4cc85b5e60d8d08167be6aced843cd1906411fde5eb
+[2026-06-30 09:20:20] ACTION=MODIFIED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/.DS_Store SENSITIVE=False HASH=02a192e937cd319486804b35aa65f855577d588331b74973af95d38aee299549
+[2026-06-30 09:20:20] ACTION=MODIFIED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/.DS_Store SENSITIVE=False HASH=02a192e937cd319486804b35aa65f855577d588331b74973af95d38aee299549
+[2026-06-30 09:20:20] ACTION=DELETED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/sensitive_data/TEST_sensitive_check.txt SENSITIVE=True HASH=N/A
+[2026-06-30 09:20:20] ACTION=DELETED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/sensitive_data/TEST_sensitive_check.txt SENSITIVE=True HASH=N/A
+ALERT: Sensitive file activity detected -> /Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/sensitive_data/TEST_sensitive_check.txt
+ALERT: Sensitive file activity detected -> /Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/sensitive_data/TEST_sensitive_check.txt
+[2026-06-30 09:20:25] ACTION=CREATED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/sensitive_data/.DS_Store SENSITIVE=True HASH=d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3
+[2026-06-30 09:20:25] ACTION=CREATED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/sensitive_data/.DS_Store SENSITIVE=True HASH=d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3
+ALERT: Sensitive file activity detected -> /Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/sensitive_data/.DS_Store
+ALERT: Sensitive file activity detected -> /Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/sensitive_data/.DS_Store
+[2026-06-30 09:20:25] ACTION=MODIFIED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/sensitive_data/.DS_Store SENSITIVE=True HASH=d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3
+ALERT: Sensitive file activity detected -> /Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/sensitive_data/.DS_Store
+[2026-06-30 09:20:25] ACTION=MODIFIED PATH=/Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/sensitive_data/.DS_Store SENSITIVE=True HASH=d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3
+ALERT: Sensitive file activity detected -> /Users/parshawshah/Desktop/files (1)/Secure_File_Transfer_Toolkit/sensitive_data/.DS_Store
